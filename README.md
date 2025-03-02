@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kauafelipesoares
 - 👀 I’m interested in ... 
-I am interested
 in backend programming and cybersecurity.
 - 🌱 I’m currently learning ...
 - cybersecurity
